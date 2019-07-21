@@ -1,0 +1,23 @@
+{
+  "name": "@aprillion/algebraic-effects",
+  "version": "0.1.0",
+  "description": "JavaScript test implementation of Algebraic Effects as outlined on https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aprillion/algebraic-effects.git"
+  },
+  "author": "peter.hozak@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Aprillion/algebraic-effects/issues"
+  },
+  "homepage": "https://github.com/Aprillion/algebraic-effects#readme",
+  "devDependencies": {
+    "jest": "^24.8.0",
+    "prettier": "^1.18.2"
+  }
+}
